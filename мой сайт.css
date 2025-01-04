@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>Алёна Егорова</title>
+	<link rel="stylesheet" href="main.css">
+</head>
+
+<body class="container">
+		<h1>Алёна Егорова</h1>
+
+		<div class="item">
+			<img class="photo" src="61W" width="170" height="170" alt="фото">
+		</div>
+
+			<p>Лучшая из лучших</p>
+
+			<h2>Обо мне</h2>
+
+			<div class="contacts">
+
+				<a href="http://t.me/alena_egorova">telegram</a> 
+				<br>
+				<a href="mailto:alena_egorova@gmail.com">email</a>
+				<br>
+				<a href="https://www.facebook.com/alena_egorova">facebook</a>
+				<br>
+				<a href="https://www.linkedin.com/in/alena_egorova/">linkedin</a>
+				<br>
+				<a href="https://github.com/alena_egorova">github.com</a>
+			</div>
+				<script type="text/javascript" src="js.js"></script>
+
+</body>
+
+</html>
